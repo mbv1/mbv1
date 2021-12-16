@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=variousdisgraces"></div>
+--><a href="https://solved.ac/profile/variousdisgraces"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=variousdisgraces"></a></div>
 
 
 
@@ -21,18 +21,16 @@ Here are some ideas to get you started:
 <h4>Languages</h4>
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
-<!--
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
--->
+<img src="https://img.shields.io/badge/MySQL-387bad?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
 </p> 
  <h4>Tools</h4>
  <p>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a> &nbsp
-<!--
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a> &nbsp
--->
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a> &nbsp
+
 </p>
 </div>
 
