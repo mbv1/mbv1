@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={variousdisgraces})](https://solved.ac/{variousdisgraces})
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=variousdisgraces)](https://solved.ac/variousdisgraces/)
 
 
 <div align='left'><h3><b>🛠 Tech Stack </b></h3>
